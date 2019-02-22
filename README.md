@@ -6,6 +6,8 @@ demo里面有recyclerview通用的CommonAdapter  CommonHolder   MultiItemAdapter
 
 csdn链接 
 CommonAdapter  https://blog.csdn.net/suwenlai/article/details/54693058
+
 CommonHolder   https://blog.csdn.net/suwenlai/article/details/54693034
+
 MultiItemAdapter   https://blog.csdn.net/suwenlai/article/details/54693082
 
