@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">MyDemo</string>
+    <string name="text_no"> <Data><![CDATA[1、必须是本人身份证，否则借，且无法重新申请；<br/>2、[提高身份证通过率]，保持身份证内容清晰可辨<br/>a.整张身份证置于拍摄区域内，并对齐拍摄边缘<br/>b.保持<font color="#000000"><b>光线充足</b></font>，避免反光。证件后建议垫一张白纸]]></Data></string>
+    <string name="text_demo">161： 表示网络定位网络定位位网络定位网络定网络定位网络定结果\n162~167： 服务端定位失败\n502：key参数错误\n505：key不存在或者非法\n</string>
 </resources>
+
